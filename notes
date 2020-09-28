@@ -1,0 +1,10 @@
+TO run server:
+
+node index.js
+
+Use postman to look at endpoints built in app
+Send body as JSON in format:
+{
+    "note": "Let's get this Bread",
+    "paper_id": 2
+}
